@@ -1,0 +1,9 @@
+---
+name: foo
+
+templates:
+  errand.sh.erb: /bin/run
+
+packages: []
+
+properties: {}
